@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7BAC997E2D16AF61399950AB615DB22E8638681A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7e18cf37-f94a-6f46-b118-439d920bd804++3363" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7BAC997E2D16AF61399950AB615DB22E8638681A" : 9223372036854775807,
+    "7e18cf37-f94a-6f46-b118-439d920bd804++3363" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E24F7562-11F3-4D23-AA27-D9CAD9F0E6EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7BAC997E2D16AF61399950AB615DB22E8638681A" : "MyLover\/",
+    "7e18cf37-f94a-6f46-b118-439d920bd804++3363" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "wenbaobao",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "wenbaobao.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Walxyy\/MyLover",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7BAC997E2D16AF61399950AB615DB22E8638681A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/175.25.24.154:9999\/svn\/wallet_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7e18cf37-f94a-6f46-b118-439d920bd804++3363"
+    }
+  ]
+}

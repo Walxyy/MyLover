@@ -17,6 +17,7 @@
 		79CC78AB1DF4F9AB0085FB15 /* wenbaobaoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 79CC78AA1DF4F9AB0085FB15 /* wenbaobaoUITests.m */; };
 		79CC78BA1DF50E6C0085FB15 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79CC78B91DF50E6C0085FB15 /* AddressBook.framework */; };
 		79CC78BC1DF56A9B0085FB15 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 79CC78BB1DF56A9B0085FB15 /* icon.png */; };
+		79F6BEF01E553BAF003CB4CE /* MainNavgationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79F6BEEF1E553BAF003CB4CE /* MainNavgationController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		79CC78AC1DF4F9AB0085FB15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79CC78B91DF50E6C0085FB15 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
 		79CC78BB1DF56A9B0085FB15 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		79F6BEEE1E553BAF003CB4CE /* MainNavgationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainNavgationController.h; sourceTree = "<group>"; };
+		79F6BEEF1E553BAF003CB4CE /* MainNavgationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainNavgationController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,8 @@
 				79CC78891DF4F9AB0085FB15 /* AppDelegate.m */,
 				79CC788B1DF4F9AB0085FB15 /* ViewController.h */,
 				79CC788C1DF4F9AB0085FB15 /* ViewController.m */,
+				79F6BEEE1E553BAF003CB4CE /* MainNavgationController.h */,
+				79F6BEEF1E553BAF003CB4CE /* MainNavgationController.m */,
 				79CC788E1DF4F9AB0085FB15 /* Main.storyboard */,
 				79CC78911DF4F9AB0085FB15 /* Assets.xcassets */,
 				79CC78931DF4F9AB0085FB15 /* LaunchScreen.storyboard */,
@@ -292,6 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79F6BEF01E553BAF003CB4CE /* MainNavgationController.m in Sources */,
 				79CC788D1DF4F9AB0085FB15 /* ViewController.m in Sources */,
 				79CC788A1DF4F9AB0085FB15 /* AppDelegate.m in Sources */,
 				79CC78871DF4F9AB0085FB15 /* main.m in Sources */,
@@ -530,6 +536,7 @@
 				79CC78B11DF4F9AB0085FB15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79CC78B21DF4F9AB0085FB15 /* Build configuration list for PBXNativeTarget "wenbaobaoTests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +545,7 @@
 				79CC78B41DF4F9AB0085FB15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79CC78B51DF4F9AB0085FB15 /* Build configuration list for PBXNativeTarget "wenbaobaoUITests" */ = {
 			isa = XCConfigurationList;
@@ -546,6 +554,7 @@
 				79CC78B71DF4F9AB0085FB15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
